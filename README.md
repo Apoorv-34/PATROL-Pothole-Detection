@@ -19,7 +19,7 @@
  
 <!-- Replace the line below with your actual screenshot -->
 ```
-[ INSERT SCREENSHOT OF RUNNING SYSTEM HERE ]
+
 ```
  
 ![Interface Screenshot](interface.png)
