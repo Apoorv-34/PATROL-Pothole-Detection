@@ -15,9 +15,7 @@
  
 ## 📸 Interface Preview
  
-> _Add your camera interface screenshot here_
- 
-<!-- Replace the line below with your actual screenshot -->
+
 ```
 
 ```
