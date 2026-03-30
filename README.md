@@ -22,7 +22,7 @@
 [ INSERT SCREENSHOT OF RUNNING SYSTEM HERE ]
 ```
  
-![Interface Screenshot](assets/interface_preview.jpg)
+![Interface Screenshot](interface.png)
  
 ---
  
